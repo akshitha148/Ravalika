@@ -28,4 +28,5 @@ main > h1 {
   font-size:35px;
   font-family:"roboto";
   font-weight:bold;
+  color:red;
 }
